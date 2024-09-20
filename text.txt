@@ -1,4 +1,4 @@
-Learnigboon2024# - rootpassword
+Learnigboon202 - rootpassword
 
 apt-get update
 sudo apt install git
